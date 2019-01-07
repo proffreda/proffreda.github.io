@@ -1,10 +1,9 @@
 ---
 layout: post
-title:  "CWHS Computer Science Syllabus"
-date:   2019-01-10 15:10:22 -0500
+title:  "Welcome to HTML "
+date:   2019-01-01 15:10:22 -0500
 categories: jekyll update
 ---
-
 
 #  CS Topics
 
