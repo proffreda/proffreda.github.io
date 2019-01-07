@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "CWHS Computer Science Syllabus"
 ---
 
